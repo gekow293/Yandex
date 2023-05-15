@@ -1,0 +1,212 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.1": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        }
+      },
+      "Mono.CSharp/4.0.0.143": {
+        "type": "package",
+        "compile": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        },
+        "runtime": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        }
+      },
+      "Mono.CSharp/4.0.0.143": {
+        "type": "package",
+        "compile": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        },
+        "runtime": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x64": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        }
+      },
+      "Mono.CSharp/4.0.0.143": {
+        "type": "package",
+        "compile": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        },
+        "runtime": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x86": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Mono.Cecil.Mdb.dll": {},
+          "lib/net40/Mono.Cecil.Pdb.dll": {},
+          "lib/net40/Mono.Cecil.Rocks.dll": {},
+          "lib/net40/Mono.Cecil.dll": {}
+        }
+      },
+      "Mono.CSharp/4.0.0.143": {
+        "type": "package",
+        "compile": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        },
+        "runtime": {
+          "lib/4.5/Mono.CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mono.Cecil/0.11.4": {
+      "sha512": "IC1h5g0NeJGHIUgzM1P82ld57knhP0IcQfrYITDPXlNpMYGUrsG5TxuaWTjaeqDNQMBDNZkB8L0rBnwsY6JHuQ==",
+      "type": "package",
+      "path": "mono.cecil/0.11.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Mdb.pdb",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.pdb",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.Rocks.pdb",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "lib/netstandard2.0/Mono.Cecil.dll",
+        "lib/netstandard2.0/Mono.Cecil.pdb",
+        "mono.cecil.0.11.4.nupkg.sha512",
+        "mono.cecil.nuspec"
+      ]
+    },
+    "Mono.CSharp/4.0.0.143": {
+      "sha512": "CprGSaPdT9Xy4Xy7nO2KxrhmfcU16gcCXzZ1ceJt0XsRcW992sYoXlvqxm8Q+QFS4D40xkfPQkurF0cC0s9A5Q==",
+      "type": "package",
+      "path": "mono.csharp/4.0.0.143",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/4.5/Mono.CSharp.dll",
+        "mono.csharp.4.0.0.143.nupkg.sha512",
+        "mono.csharp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.1": [
+      "Mono.CSharp >= 4.0.0.143",
+      "Mono.Cecil >= 0.11.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tatiana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Tatiana\\Documents\\Magistr\\3semestr\\Мультимедиа\\Yandex_5_C#\\Yandex_5_CSharp\\Yandex_5_CSharp\\Yandex_5_CSharp.csproj",
+      "projectName": "Yandex_5_CSharp",
+      "projectPath": "D:\\Tatiana\\Documents\\Magistr\\3semestr\\Мультимедиа\\Yandex_5_C#\\Yandex_5_CSharp\\Yandex_5_CSharp\\Yandex_5_CSharp.csproj",
+      "packagesPath": "C:\\Users\\Tatiana\\.nuget\\packages\\",
+      "outputPath": "D:\\Tatiana\\Documents\\Magistr\\3semestr\\Мультимедиа\\Yandex_5_C#\\Yandex_5_CSharp\\Yandex_5_CSharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Tatiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net471"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net471": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net471": {
+        "dependencies": {
+          "Mono.CSharp": {
+            "target": "Package",
+            "version": "[4.0.0.143, )"
+          },
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.11.4, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

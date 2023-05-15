@@ -1,0 +1,15 @@
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\bin\Debug\PolygonDrawWpfApp.exe.config
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\bin\Debug\PolygonDrawWpfApp.exe
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\bin\Debug\PolygonDrawWpfApp.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.csprojAssemblyReference.cache
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\MainWindow.g.cs
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\App.g.cs
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp_MarkupCompile.cache
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp_MarkupCompile.lref
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\MainWindow.baml
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.g.resources
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.Properties.Resources.resources
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.csproj.GenerateResource.cache
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.csproj.CoreCompileInputs.cache
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.exe
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\PolygonDrawWpfApp\obj\Debug\PolygonDrawWpfApp.pdb

@@ -1,0 +1,17 @@
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Yandex_5_CSharp.exe.config
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Yandex_5_CSharp.exe
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Yandex_5_CSharp.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\obj\Debug\Yandex_5_CSharp.csproj.CoreCompileInputs.cache
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\obj\Debug\Yandex_5_CSharp.exe
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\obj\Debug\Yandex_5_CSharp.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.CSharp.dll
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\obj\Debug\Yandex_5_CSharp.csproj.CopyComplete
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.dll
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\bin\Debug\Mono.Cecil.pdb
+D:\Tatiana\Documents\Magistr\3semestr\Мультимедиа\Yandex_5_C#\Yandex_5_CSharp\Yandex_5_CSharp\obj\Debug\Yandex_5_CSharp.csprojAssemblyReference.cache
